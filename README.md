@@ -1,2 +1,2 @@
-# 404-terminal-page
-404 terminal page. https://codepen.io/robinselmer/pen/vJjbOZ
+# animated-terminal-session
+https://codepen.io/simoami/pen/eYrPdz
